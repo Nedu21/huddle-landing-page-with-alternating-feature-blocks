@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/Nedu21/huddle-landing-page-with-alternating-feature-blocks)
-- Live Site URL: [live site URL](https://easy-bank-landing-page-v01.netlify.app/)
+- Live Site URL: [live site URL](https://huddle-landing-pge.netlify.app/)
 
 ### Built with
 
